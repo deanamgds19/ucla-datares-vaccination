@@ -1,1 +1,3 @@
-# ucla-datares-vaccination
+# A Comprehensive Analysis of COVID-19 Vaccine Rollout
+
+Analyzed and evaluated COVID-19 vaccination rollout across the United States and the world, considering why some states or countries had more success than others. Used Python (matplotlib) to create visual displaying percent change over time in vaccinations administered across U.S. states with democratic leadership in comparison to republican leadership. Also created visual showing the daily vaccinations administered and how average vaccination differed between differing presidential administrations. Additionally created bar graph comparing the usage of different vaccines throughout the world.
